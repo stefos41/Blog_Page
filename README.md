@@ -80,13 +80,6 @@ Interested in collaboration or want to show your own travels?
 Fork this repo, personalize your own blog, and share your journey!
 
 ---
-
-## ⚡ License
-
-No specific license.  
-Use, remix, and learn—just give credit if you share!
-
----
 ```
 Ready to explore?  
 **Clone, open, and get inspired!**
